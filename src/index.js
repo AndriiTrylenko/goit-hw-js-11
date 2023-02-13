@@ -4,7 +4,7 @@ import Notiflix from 'notiflix';
 import { Notify } from 'notiflix/build/notiflix-notify-aio';
 import SimpleLightbox from 'simplelightbox';
 import 'simplelightbox/dist/simple-lightbox.min.css';
-import { fetchImages } from './JS/fetchAPI.js';
+import { fetchImages } from './js/fetchAPI.js';
 
 const refs = {
   form: document.querySelector('.search-form'),

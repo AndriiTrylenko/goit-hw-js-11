@@ -2,7 +2,7 @@
   "name": "goit-hw-js-11",
   "version": "2.0.0",
   "description": "",
-  "homepage": "https://andriitrylenko.github.io/goit-hw-js-11",
+  "homepage": "https://AndriiTrylenko.github.io/goit-hw-js-11",
   "scripts": {
     "start": "parcel src/*.html",
     "build": "parcel build src/*.html --public-url /goit-hw-js-11"
